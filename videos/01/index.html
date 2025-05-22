@@ -21,14 +21,12 @@
             <div class="author-avatar"></div>
             <div class="author-info">
               <span class="author-name">Jan Janssen</span>
-              <span class="author-date">1 min ago · 8 min read</span>
+              <span class="author-meta">1 min ago · 8 min read</span>
             </div>
           </div>
         </div>
 
-        <div class="image-placeholder">
-          Image Placeholder - Rotterdam Skyline
-        </div>
+        <div class="image-placeholder">Image Placeholder - Erasmus Bridge</div>
 
         <div class="content">
           <p>
@@ -86,38 +84,5 @@
         </div>
       </article>
     </div>
-    <script>
-      // Debug favicon loading
-      console.log("Checking favicon path:");
-      fetch("/rotterdam-icon.svg")
-        .then((response) => {
-          console.log(
-            `Favicon path /rotterdam-icon.svg: ${
-              response.ok ? "Success" : "Failed"
-            }`
-          );
-          if (!response.ok) console.log(`Status: ${response.status}`);
-          return response.text();
-        })
-        .then((text) => {
-          console.log(`SVG content length: ${text.length} characters`);
-          console.log("SVG content sample:", text.substring(0, 100) + "...");
-
-          // Force favicon refresh
-          const link = document.querySelector('link[rel="icon"]');
-          const newLink = document.createElement("link");
-          newLink.rel = "icon";
-          newLink.href = "/rotterdam-icon.svg?" + new Date().getTime();
-          newLink.type = "image/svg+xml";
-          document.head.appendChild(newLink);
-
-          if (link) {
-            document.head.removeChild(link);
-          }
-        })
-        .catch((error) =>
-          console.log(`Error fetching favicon: ${error.message}`)
-        );
-    </script>
   </body>
 </html>

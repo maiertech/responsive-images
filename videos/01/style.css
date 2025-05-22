@@ -28,7 +28,7 @@ body {
 .container {
   max-width: 48rem;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 .header {
@@ -72,7 +72,7 @@ body {
   color: var(--color-gray-900);
 }
 
-.author-date {
+.author-meta {
   font-size: 0.875rem;
   color: var(--color-gray-600);
 }
@@ -89,6 +89,8 @@ body {
   color: white;
   font-weight: bold;
   font-size: 1.25rem;
+  text-align: center;
+  padding: 1rem;
 }
 
 .content {
@@ -121,15 +123,4 @@ body {
 
 .tag-container {
   margin-bottom: 2rem;
-}
-
-/* Simple responsive design */
-@media (max-width: 640px) {
-  .header h1 {
-    font-size: 1.75rem;
-  }
-
-  .image-placeholder {
-    height: 12rem;
-  }
 }
