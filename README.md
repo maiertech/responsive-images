@@ -3,6 +3,7 @@
 # StackBlitz links
 
 - [Video 01](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/01)
+- [Video 02](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/02)
 
 ## Image credits
 

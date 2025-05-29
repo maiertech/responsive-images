@@ -1,0 +1,123 @@
+:root {
+  --color-primary: #3b82f6;
+  --color-primary-dark: #2563eb;
+  --color-secondary: #f59e0b;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.5;
+  color: var(--color-gray-800);
+  background-color: var(--color-gray-100);
+}
+
+.container {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: var(--color-gray-900);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.header p {
+  font-size: 1.125rem;
+  color: var(--color-gray-600);
+  margin-bottom: 1.5rem;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.author-avatar {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+  background-color: var(--color-primary);
+  margin-right: 0.75rem;
+}
+
+.author-info span {
+  display: block;
+}
+
+.author-name {
+  font-weight: 600;
+  color: var(--color-gray-900);
+}
+
+.author-meta {
+  font-size: 0.875rem;
+  color: var(--color-gray-600);
+}
+
+.image-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-color: var(--color-secondary);
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  color: white;
+  font-weight: bold;
+  font-size: 1.25rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.content {
+  margin-bottom: 2rem;
+}
+
+.content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-gray-900);
+  margin: 1.5rem 0 1rem;
+}
+
+.content p {
+  margin-bottom: 1.25rem;
+  color: var(--color-gray-700);
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background-color: var(--color-gray-200);
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-gray-700);
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tag-container {
+  margin-bottom: 2rem;
+}
