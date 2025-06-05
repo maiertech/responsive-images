@@ -60,6 +60,12 @@ importers:
         specifier: ^6.3.5
         version: 6.3.5
 
+  videos/10:
+    devDependencies:
+      vite:
+        specifier: ^6.3.5
+        version: 6.3.5
+
 packages:
 
   '@esbuild/aix-ppc64@0.25.4':
