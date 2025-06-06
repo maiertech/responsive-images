@@ -90,6 +90,23 @@ body {
   overflow: hidden;
 }
 
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 48rem) {
+  .image-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.image-grid > img {
+  border-radius: 0.5rem;
+}
+
 .content {
   margin-bottom: 2rem;
 }
