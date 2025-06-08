@@ -1,0 +1,23 @@
+{
+  "breadcrumbs.enabled": false,
+
+  "editor.formatOnSave": true,
+  "editor.hover.enabled": false,
+  "editor.lineHeight": 22,
+  "editor.lineNumbers": "off",
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.suggestOnTriggerCharacters": false,
+
+  "files.exclude": {
+    "**/.vscode": true
+  },
+
+  "terminal.integrated.suggest.enabled": false,
+
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "default"
+}
