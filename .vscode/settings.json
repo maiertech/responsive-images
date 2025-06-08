@@ -6,18 +6,18 @@
   "editor.lineHeight": 22,
   "editor.lineNumbers": "off",
   "editor.quickSuggestions": {
-    "other": "off",
-    "comments": "off",
-    "strings": "off"
-  },
-  "editor.suggestOnTriggerCharacters": false,
-
-  "files.exclude": {
-    "**/.vscode": true
+    "other": false,
+    "comments": false,
+    "strings": false
   },
 
-  "terminal.integrated.suggest.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
 
-  "workbench.statusBar.visible": false,
-  "workbench.activityBar.location": "default"
+  "terminal.integrated.suggest.enabled": true,
+
+  //"workbench.activityBar.location": "hidden",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false
 }
