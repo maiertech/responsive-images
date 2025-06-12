@@ -1,23 +1,19 @@
 {
-  "breadcrumbs.enabled": false,
-
-  "editor.formatOnSave": true,
-  "editor.hover.enabled": false,
-  "editor.lineHeight": 22,
-  "editor.lineNumbers": "off",
-  "editor.quickSuggestions": {
-    "other": false,
-    "comments": false,
-    "strings": false
-  },
-
-  "github.copilot.enable": {
-    "*": false
-  },
-
-  "terminal.integrated.suggest.enabled": true,
-
-  //"workbench.activityBar.location": "hidden",
-  "workbench.startupEditor": "none",
-  "workbench.statusBar.visible": false
+  // "breadcrumbs.enabled": false,
+  // "editor.formatOnSave": true,
+  // "editor.hover.enabled": false,
+  // "editor.lineHeight": 22,
+  // "editor.lineNumbers": "off",
+  // "editor.quickSuggestions": {
+  //   "other": false,
+  //   "comments": false,
+  //   "strings": false
+  // },
+  // "github.copilot.enable": {
+  //   "*": false
+  // },
+  // "terminal.integrated.suggest.enabled": false,
+  // "workbench.activityBar.location": "hidden",
+  // "workbench.startupEditor": "none",
+  // "workbench.statusBar.visible": true
 }
