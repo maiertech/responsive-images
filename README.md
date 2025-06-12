@@ -2,16 +2,16 @@
 
 # StackBlitz links
 
-- [Video 01](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/01)
-- [Video 02](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/02)
-- [Video 03](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/03)
-- [Video 04](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/04)
-- [Video 05](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/05)
-- [Video 06](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/06)
-- [Video 07](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/07)
-- [Video 08](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/08)
-- [Video 09](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/09)
-- [Video 10](https://stackblitz.com/github/maiertech/responsive-images/tree/main/videos/10)
+- [Video 01](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-01)
+- [Video 02](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-02)
+- [Video 03](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-03)
+- [Video 04](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-04)
+- [Video 05](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-05)
+- [Video 06](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-06)
+- [Video 07](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-07)
+- [Video 08](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-08)
+- [Video 09](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-09)
+- [Video 10](https://stackblitz.com/github/maiertech/responsive-images/tree/main/code-along/videos-10)
 
 ## Image credits
 

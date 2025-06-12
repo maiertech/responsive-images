@@ -6,67 +6,67 @@ settings:
 
 importers:
 
-  videos/01:
+  code-along/final:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/02:
+  code-along/video-01:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/03:
+  code-along/video-02:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/04:
+  code-along/video-03:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/05:
+  code-along/video-04:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/06:
+  code-along/video-05:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/07:
+  code-along/video-06:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/08:
+  code-along/video-07:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/09:
+  code-along/video-08:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/10:
+  code-along/video-09:
     devDependencies:
       vite:
         specifier: ^6.3.5
         version: 6.3.5
 
-  videos/10-final:
+  code-along/video-10:
     devDependencies:
       vite:
         specifier: ^6.3.5

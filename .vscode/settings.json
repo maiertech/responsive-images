@@ -12,7 +12,6 @@
   // "github.copilot.enable": {
   //   "*": false
   // },
-  // "terminal.integrated.suggest.enabled": false,
   // "workbench.activityBar.location": "hidden",
   // "workbench.startupEditor": "none",
   // "workbench.statusBar.visible": true
