@@ -1,2 +1,7 @@
 packages:
-  - "code-along/*"
+  - code-along/*
+  - slides
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - esbuild

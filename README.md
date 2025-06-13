@@ -17,9 +17,11 @@
 
 In this repository, we use the following images from [Unsplash](https://unsplash.com):
 
-- Erasmus Bridge at dawn: https://unsplash.com/photos/city-skyline-under-blue-sky-during-night-time-946XeVrYO2E
+- Erasmus Bridge at dawn:
+  https://unsplash.com/photos/city-skyline-under-blue-sky-during-night-time-946XeVrYO2E
 
-- Erasmus Bridge (light mode): https://unsplash.com/photos/white-cruise-ship-on-calm-body-of-water-fJXvxovQ2Bg
+- Erasmus Bridge (light mode):
+  https://unsplash.com/photos/white-cruise-ship-on-calm-body-of-water-fJXvxovQ2Bg
 
 - MS Rotterdam: https://unsplash.com/photos/white-rotterdam-7hLEJe7h89w
 
@@ -27,6 +29,7 @@ In this repository, we use the following images from [Unsplash](https://unsplash
 
 - Market Hall: https://unsplash.com/photos/gray-concrete-building-fbQv3cx--bM
 
-- Station Square: https://unsplash.com/photos/aerial-photography-of-people-walking-on-park-near-city-buildings-F7I6sexmIS8
+- Station Square:
+  https://unsplash.com/photos/aerial-photography-of-people-walking-on-park-near-city-buildings-F7I6sexmIS8
 
 - Portrait: https://unsplash.com/photos/man-wearing-henley-top-portrait-7YVZYZeITc8
